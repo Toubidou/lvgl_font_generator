@@ -1,0 +1,26 @@
+{
+    "Font":
+    [
+        {
+            "font_path": "font/SourceHanSansCN/SourceHanSansCN-Normal.otf",
+            "size_pixel": 28,
+            "bpp": 4,
+            "output": "output_font/font_script_gen_test.c",
+            "symbols": "lvgl字体自动生成脚本测试"
+        },
+        {
+            "font_path": "font/SourceHanSansCN/SourceHanSansCN-Normal.otf",
+            "size_pixel": 30,
+            "bpp": 4,
+            "output": "output_font/font_script_gen_test1.c",
+            "symbols": "ワイヤレスモデリングランプ"
+        },
+        {
+            "font_path": "font/SourceHanSansCN/SourceHanSansCN-Normal.otf",
+            "size_pixel": 30,
+            "bpp": 4,
+            "output": "output_font/font_script_gen_test2.c",
+            "symbols": "lvgl font auto generator scripttest,"
+        }
+    ]
+}
